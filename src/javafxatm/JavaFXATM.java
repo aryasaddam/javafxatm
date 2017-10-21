@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Konia Septia
+ * @author Xaddam
  */
 public class JavaFXATM extends Application {
     
